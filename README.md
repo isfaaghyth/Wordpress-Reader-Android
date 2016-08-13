@@ -18,11 +18,17 @@ sebagai contoh pada aplikasi ini menggunakan 2 layanan:
 
 Layanan-layanan tersebut harus diaktifkan di Settings -> JSON API.
 
+Informasi lebih lengkap terkait plugin JSON API:
+
+https://wordpress.org/plugins/json-api/other_notes/
+
 ## Screenshot:
-![desk](https://s19.postimg.org/ib43aqaoj/photo_2016_08_14_01_59_18.jpg)
-![desk](https://s19.postimg.org/yamqua6qb/photo_2016_08_14_01_59_20.jpg)
-![desk](https://s19.postimg.org/ho56l7dsj/photo_2016_08_14_01_59_25.jpg)
-![desk](https://s19.postimg.org/9wogmn9n7/photo_2016_08_14_01_59_27.jpg)
+<p align="center">
+  <img src="https://s19.postimg.org/ib43aqaoj/photo_2016_08_14_01_59_18.jpg" width="350"/>
+  <img src="https://s19.postimg.org/yamqua6qb/photo_2016_08_14_01_59_20.jpg" width="350"/>
+  <img src="https://s19.postimg.org/ho56l7dsj/photo_2016_08_14_01_59_25.jpg" width="350"/>
+  <img src="https://s19.postimg.org/9wogmn9n7/photo_2016_08_14_01_59_27.jpg" width="350"/>
+</p>
 
 ## Terima kasih untuk:
 - Volley
