@@ -1,12 +1,12 @@
 # Wordpress-Reader-Android
 Wordpress Reader with JSON API plugin in Android.
 
-Source code ini sangat sederhana dalam pengambilan data pada CMS Wordpress, dibuat secara klasik (banyak kode yang redundan) yang diharapkan bisa memahami lebih dalam terkait parsing data pada json.
+Source code ini sangat sederhana dalam pengambilan data pada CMS Wordpress, dibuat secara klasik (banyak kode yang redundan) yang diharapkan bisa memahami lebih dalam terkait parsing data json menggunakan volley dan gson.
 
 
 Plugin menggunakan JSON API:
 
-https://id.wordpress.org/plugins/json-api/
+https://wordpress.org/plugins/json-api/other_notes/
 
 sebagai contoh pada aplikasi ini menggunakan 2 layanan:
 
@@ -18,10 +18,6 @@ sebagai contoh pada aplikasi ini menggunakan 2 layanan:
 
 Layanan-layanan tersebut harus diaktifkan di Settings -> JSON API.
 
-
-Informasi lebih lengkap terkait plugin JSON API:
-
-https://wordpress.org/plugins/json-api/other_notes/
 
 ## Screenshot:
 <p align="center">
