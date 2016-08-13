@@ -16,9 +16,9 @@ import com.android.volley.toolbox.Volley;
  */
 public class PublicController extends Application {
 
-    public static String URL_MAIN = "https://youresite.com/?json=1";
+    public static String URL_MAIN = "http://youresite.com/?json=1";
     public static String URL_CATEGORY = "http://youresite.com/api/get_category_index/";
-    public static String URL_GET_POST = "https://youresite.com/api/get_post/?id=";
+    public static String URL_GET_POST = "http://youresite.com/api/get_post/?id=";
 
     public void URLAccess(String url, Application application) {
         RequestQueue queue = Volley.newRequestQueue(application.getApplicationContext());
