@@ -8,7 +8,7 @@ Plugin menggunakan JSON API:
 
 https://wordpress.org/plugins/json-api/other_notes/
 
-sebagai contoh pada aplikasi ini menggunakan 2 layanan:
+sebagai contoh pada aplikasi ini menggunakan 3 layanan:
 
 `/?json=1` mengambil konten pada page pertama.
 
